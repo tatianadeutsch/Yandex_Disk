@@ -42,16 +42,17 @@
 				<text>horizon</text>
 			</mean>
 		</tr>
-		<tr pos="noun" gen="м" fr="5"><text>Скай</text></tr>
+		<tr pos="noun" gen="м" fr="5">
+			<text>Скай</text>
+		</tr>
 	</def>
-	
 	<def pos="adjective" ts="skaɪ">
 		<text>sky</text>
 		<tr pos="adjective" fr="5">
 			<text>небесный</text>
-		<mean>
-			<text>heavenly</text>
-		</mean>
+			<mean>
+				<text>heavenly</text>
+			</mean>
 		</tr>
 	</def>
 </DicResult>
